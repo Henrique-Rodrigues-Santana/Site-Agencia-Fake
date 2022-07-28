@@ -1,0 +1,49 @@
+@media screen and (max-width:1005px){
+    .menu{
+        display: none;
+    }
+    .navbar{
+        position: relative;
+    }
+    .logo{
+        text-align: center;
+        margin: 0%;
+    
+    }
+    .header{
+        flex-flow: column wrap;
+        padding-top: 50px ;
+    }
+    .headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+           
+    }
+
+    .headline p{
+        text-align: center;
+    }
+
+    .img-headline{
+        margin: 5%;
+        flex: 100%;
+        text-align: center;
+    }
+    .contato-btn{
+        text-align: center;
+    }
+
+    section{
+        display: inline;
+    }
+    .card{
+        width: 100%;
+        margin: 5%;
+
+    }
+
+    .whats{
+        display: none;
+    }
+}
